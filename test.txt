@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 goooooood
+=======
+bad
+>>>>>>> add a different file
